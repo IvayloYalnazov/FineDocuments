@@ -1,0 +1,16 @@
+touch - Creates a new file
+git init - Initializes an empty Git repository in the given path
+git config --global user.name '' - To add a userName
+git config --global user.email '' - To add an email
+git add ->FileName<- - To add the file to the repository
+git rm --cached ->FileName<- - To remove the file from the repository
+git add *.html - To add any files with the .html extention
+git add . - To add all the files
+git commit -m 'Message' - To commit 
+adding a .gitignore fille - listing all files or dir that we don't want on the rep
+git branch ->Name of branch<- - To create a new branch
+git checkout ->Name of branch<- - To go in the given branch
+git merge ->Branch Name<- - To merge the two branches into one
+git remote add origin https://github.com/IvayloYalnazov/Sample.git - To add a remote repository to gitHub
+git push -u origin master - To push the repository to the remote rep
+git push - To push new changes

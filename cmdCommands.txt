@@ -1,0 +1,8 @@
+ls  - Check content of folder
+cd ->name of folder<- - Go to given path
+cd .. - go back once
+clear - clear commands
+touch ->name of file.ext<- - Create new file
+mkdir ->name of dir<- - create new directory with given name
+rm ->file name<- - remove file
+rm -rf ->folder name<- - remove folder
